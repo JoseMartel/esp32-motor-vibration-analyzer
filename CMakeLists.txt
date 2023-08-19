@@ -9,9 +9,6 @@ set(THIS ${CMAKE_CURRENT_LIST_DIR})
 set(EXTRA_COMPONENT_DIRS 
 	${THIS}/components/lis3dh
 	${THIS}/components/vibration
-	${THIS}/components/OE_https_ota
-	${THIS}/components/ota-server
-	${THIS}/components/esp-dsp-master
 )
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)

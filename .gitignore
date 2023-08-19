@@ -1,3 +1,4 @@
+OE_https
 build/*
 managed_components/*
 .cache/*
