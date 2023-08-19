@@ -1,0 +1,6 @@
+[submodule "components/vibration"]
+	path = components/vibration
+	url = https://github.com/JoseMartel/Vibration-Analysis-Math.git
+[submodule "components/lis3dh"]
+	path = components/lis3dh
+	url = https://github.com/JoseMartel/LIS3DH-ESP-IDF.git
